@@ -1,1 +1,1 @@
-# docker-java-kubernetes-project
+# Shopping Site Application Deployed on Kubernetes
